@@ -1,0 +1,31 @@
+{
+    "status": true,
+    "data": {
+        "registration_authority": "MUMBAI (EAST), Maharashtra",
+        "registration_no": "22BH6517A",
+        "registration_date": "25-Mar-2022",
+        "chassis_no": "MAKGN262CN41XXXXX",
+        "engine_no": "L15ZD18XXXXX",
+        "owner_name": "Kumar Manickam",
+        "vehicle_class": "Motor Car(LMV)",
+        "fuel_type": "PETROL",
+        "maker_model": "HONDA CARS INDIA LTD, CITY 5TH GEN V CVT (I-VTEC)",
+        "fitness_upto": "24-Mar-2037",
+        "insurance_upto": "12-Dec-2025",
+        "fuel_norms": "BHARAT STAGE VI",
+        "vehicle_info": null,
+        "vehicle_type": "car_models",
+        "insurance_company": "ICICI Lombard General Insurance Co. Ltd.",
+        "financier_name": "HDFC BANK LTD",
+        "puc_upto": "29-Mar-2025",
+        "road_tax_paid_upto": "22-Mar-2026",
+        "vehicle_color": "PLATINUM WHITE P.",
+        "seat_capacity": "5",
+        "unload_weight": null,
+        "body_type_desc": null,
+        "manufacture_month_year": null,
+        "rc_status": "ACTIVE",
+        "ownership": "1",
+        "ownership_desc": "FIRST OWNER"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "status": true,
+    "code": 200,
+    "data": {
+        "vin": "JNKCA31A61T027494",
+        "success": true,
+        "id": "2001_infiniti_i30_luxury",
+        "vehicle": "2001 Infiniti I30 Luxury",
+        "mean": 3989.41,
+        "stdev": 1293,
+        "count": 14,
+        "mileage": 140693,
+        "certainty": 88,
+        "period": [
+            "2024-09-11",
+            "2025-03-02"
+        ],
+        "prices": {
+            "average": 3989.41,
+            "below": 2695.5,
+            "above": 5283.32,
+            "distribution": [
+                {
+                    "group": {
+                        "min": 2250,
+                        "max": 2350,
+                        "count": 2
+                    }
+                },
+                {
+                    "group": {
+                        "min": 2350,
+                        "max": 2495,
+                        "count": 1
+                    }
+                },
+                {
+                    "group": {
+                        "min": 2495,
+                        "max": 2999,
+                        "count": 2
+                    }
+                },
+                {
+                    "group": {
+                        "min": 2999,
+                        "max": 3495,
+                        "count": 1
+                    }
+                },
+                {
+                    "group": {
+                        "min": 3495,
+                        "max": 4250,
+                        "count": 2
+                    }
+                },
+                {
+                    "group": {
+                        "min": 4250,
+                        "max": 4500,
+                        "count": 1
+                    }
+                },
+                {
+                    "group": {
+                        "min": 4500,
+                        "max": 4990,
+                        "count": 1
+                    }
+                },
+                {
+                    "group": {
+                        "min": 4990,
+                        "max": 5250,
+                        "count": 2
+                    }
+                },
+                {
+                    "group": {
+                        "min": 5250,
+                        "max": 5697,
+                        "count": 1
+                    }
+                },
+                {
+                    "group": {
+                        "min": 5697,
+                        "max": 5999,
+                        "count": 1
+                    }
+                }
+            ]
+        },
+        "adjustments": {
+            "mileage": {
+                "average": 140693.79,
+                "input": 140693.79,
+                "adjustment": 0
+            }
+        }
+    },
+    "message": "Data Fetched Successfully!"
+}
